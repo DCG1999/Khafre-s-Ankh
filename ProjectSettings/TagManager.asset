@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PressurePlate
+  - Switch
+  - Door
+  - Laser
+  - LaserDoor
+  - Portal
+  - WeakWall
+  - Enemy
+  - CameraCone
+  - wall_wood
+  - survCam
+  - StrongWall
+  - Illusion
+  - PlayerMesh
+  - Loot
+  - VisibleLoot
+  - FinalLoot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Observables
+  - Obstacles
+  - Illusion
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

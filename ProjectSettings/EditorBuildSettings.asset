@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScreen.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/CharSelectionScreen.unity
+    guid: 681f020c24e224f47bc2497de824b9e1
+  - enabled: 1
+    path: Assets/Scenes/GameScene.unity
+    guid: 6e66e30939110af42bbf9f6e123f98f5
+  - enabled: 1
+    path: Assets/Scenes/End.unity
+    guid: 40fec759afa1eb949a67111ebe9c3962
+  - enabled: 1
+    path: Assets/Scenes/GameLoseScreen.unity
+    guid: 47dc7ea026e0328468276fa65981c4e4
+  - enabled: 0
+    path: Assets/Scenes/Sandbox.unity
+    guid: a166405c3458842459da26c99543bf12
+  m_configObjects: {}
